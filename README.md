@@ -1,9 +1,9 @@
 # Data Science
 STT: 7
 
-Võ Thị Hiếu | 18120379 
+Võ Thị Hiếu | 18120379 | vohieu00
 
-Trần Ngọc Lan Khanh | 18120408 
+Trần Ngọc Lan Khanh | 18120408 | lakhahqh
 
 ## Giới thiệu đồ án
 
